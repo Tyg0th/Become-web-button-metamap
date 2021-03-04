@@ -16,7 +16,7 @@ How it looks like on your page:
 Add this script to your `<script>` tag 
 
 ```
-<script src="http://resources.becomedigital.io/button.js"></script>
+<script src="https://onboarding.becomedigital.net/resources/button.js"></script>
 ```
 
 Declare the userId for this identity, the contractId and the token in the custom element
