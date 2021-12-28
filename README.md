@@ -3,7 +3,7 @@
 How it looks like in your code:
 
 ```
-<become-button userId="<YOUR_USER_ID>" contractId="<YOUR_CONTRACT_ID> token="<YOUR_JWT_TOKEN>" flowId="<YOUR_FLOW_ID>"  />
+<become-button userId="<YOUR_USER_ID>" contractId="<YOUR_CONTRACT_ID>" token="<YOUR_JWT_TOKEN>" />
 ```
 
 How it looks like on your page:
